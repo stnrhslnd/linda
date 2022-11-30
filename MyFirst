@@ -1,2 +1,0 @@
-name = 'Linda'
-print("I am " + name + " from Rawang")
